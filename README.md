@@ -1,6 +1,8 @@
 Enterprise Network Design with pfSense, Suricata, and Squid
 Overview
 
+![Image](https://github.com/user-attachments/assets/705c3545-d7f2-4544-ba1a-b638ba826dad)
+
 This project demonstrates the design, implementation, and configuration of a secure enterprise network using GNS3.
 The network is designed to simulate a real corporate environment, featuring:
 
